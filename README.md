@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **Frontend/Backend Devlopment**
 
-- 🔭 Schooled from PCM with **Computer Science stream from Holy Cross School,CBSE Board - 94%**
 
 - 💬 Ask me about **CP/Html/CSS**
 
