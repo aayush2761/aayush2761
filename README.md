@@ -1,7 +1,7 @@
-![MasterHead](https://camo.githubusercontent.com/4c2034f05e9401dd378444ddf4d41faa4064faffbb6d761e7ceee24eadf7aa12/68747470733a2f2f70726576696577732e31323372662e636f6d2f696d616765732f6b617270656e6b6f696c69612f6b617270656e6b6f696c6961313830362f6b617270656e6b6f696c69613138303630303031312f3130323938383830362d766563746f722d6c696e652d7765622d636f6e636570742d666f722d70726f6772616d6d696e672d6c696e6561722d7765622d62616e6e65722d666f722d636f64696e672d2e6a7067)
+![MasterHead]
 <h1 align="center">Hi 👋, I'm Aayush Gupta</h1>
 <h3 align="center">Student</h3>
-
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush2761&label=Profile%20views&color=0e75b6&style=flat" alt="aayush2761" /> </p>
 
@@ -18,11 +18,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aayush-gupta-020284263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aayush-gupta-020284263/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aayush-gupta-020284263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aayush-gupta-020284263/" height="30" width="40" /></a>
 <a href="https://instagram.com/_.aayush.gupta._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.aayush.gupta._" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/aayush2761" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/aayush2761" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/aayush2761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/aayush2761" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/aayush2705gupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aayush2705gupta/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/aayush2761" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/aayush2761" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/aayush2761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/aayush2761" height="30" width="40" /></a>
+<a href="https://leetcode.com/aayush2705gupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aayush2705gupta/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
