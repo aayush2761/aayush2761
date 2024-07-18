@@ -3,6 +3,7 @@
 <h3 align="center">A passionate Programmer from India</h3>
 
 
+<img align="right" width="350" src="https://ssr-contributions-svg.vercel.app/_/aayush2761?chart=3dbar&gap=0.6&scale=2&gradient=true&animation=wave&animation_duration=10&format=svg&weeks=30&theme=yellow_wine&widget_size=medium&dark=true" alt=" Contribution Calander" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush2761&label=Profile%20views&color=0e75b6&style=flat" alt="aayush2761" /> </p>
 
 - 👷 Currently pursuing B.Tech in Information Technology(2022-2026) from **National Institute of Technology Raipur**
@@ -15,6 +16,7 @@
 - 📫 How to reach me **aayush2705gupta@gmail.com**
 
 - ⚡ Fun fact **I think I an funny, with a strong desire for continous learning.**
+
 
 
 ## 🌐 Socials:
@@ -30,7 +32,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aayush2761&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![GitHub Contributions](https://ssr-contributions-svg.vercel.app/_/aayush2761?chart=3dbar&gap=0.6&scale=2&flatten=0&weeks=30&theme=native&dark=true)
 
 
 
