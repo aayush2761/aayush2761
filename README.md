@@ -30,7 +30,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aayush2761&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+![GitHub Contributions](https://ssr-contributions-svg.vercel.app/_/aayush2761?chart=3dbar&gap=0.6&scale=2&flatten=0&weeks=30&theme=native&dark=true)
+
+
+
+
 ---
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
