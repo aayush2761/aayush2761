@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning **Frontend/Backend Development**
 - 💬 Ask me about **CP/Html/CSS**
 - 📫 How to reach me **aayush2705gupta@gmail.com**
-- ⚡ Fun fact **I think I am funny, with a strong desire for continuous learning.**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.aayush.gupta._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-gupta-020284263/) 
