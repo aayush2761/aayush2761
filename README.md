@@ -1,31 +1,98 @@
-<h1 align="center">Hi 👋, I'm Aayush Gupta</h1>
-<h3 align="center">A passionate Programmer from India</h3>
+<a href="https://komarev.com/ghpvc/?username=aayush2761">
+  <img align="right" src="https://komarev.com/ghpvc/?username=aayush2761&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aayush2761&label=Profile%20views&color=0e75b6&style=flat" alt="aayush2761">
+
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="#">Aayush Gupta</a></b>
+        </samp>
+</h3>
+
+
+<p align="center"> 
+  <samp>
+    <br>
+    「 I am a developer from <b>Raipur, India</b> 」
+    <br>
+    <br>
+  </samp>
 </p>
 
-- 👷 Currently pursuing B.Tech in Information Technology (2022-2026) from **National Institute of Technology Raipur**
-- 🌱 I’m currently learning **Frontend/Backend Development**
-- 💬 Ask me about **CP/Html/CSS**
-- 📫 How to reach me **aayush2705gupta@gmail.com**
+<p align="center">
+ <!-- <a href="" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="aayush2761" />
+ </a> -->
+ <a href="https://linkedin.com/in/aayush-gupta-020284263/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aayush2761"/>
+ </a>
+  
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=aayush2761@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="aayush2761"/>
+</a>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.aayush.gupta._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-gupta-020284263/) 
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+ <a href="https://instagram.com/_.aayush.gupta._" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="aayush2761" />
+ </a>
+ 
+</p>
+<br />
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aayush2761&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aayush2761&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aayush2761&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<!-- About Section -->
+ # About me
+ 
+<p>
+ <img align="right" width="350" src="https://ssr-contributions-svg.vercel.app/_/aayush2761?chart=3dbar&gap=0.6&scale=2&gradient=true&animation=wave&animation_duration=10&format=svg&weeks=10&theme=yellow_wine&widget_size=medium&dark=true" alt="Aayush's Contribution Calander" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aayush2761&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  - 🔭 &emsp; I’m currently working on [Samar](https://github.com/Samar-NITRR/Samar-2k25)
 
-## 🏆 GitHub Contributions
+  - 🌱 &emsp; I’m currently learning **MACHINE LEARNNING**
+
+  - 💬 &emsp; Ask me about **CP/DSA/HTML/CSS/REACT**
+
+  - 📫 &emsp; How to reach me **aayush2705gupta@gmail.com**
+
+</p>
+
+<br/>
+<br/>
+
+## Have Knowledge About
+
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br/>
+
 
 <p align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/aayush2761?chart=3dbar&gap=0.6&scale=2&gradient=true&animation=wave&animation_duration=10&format=svg&weeks=30&theme=yellow_wine&widget_size=medium&dark=true" alt="Contribution Calendar" style="width:60%;max-width:600px;max-height:150px;">
+  <a href="https://github.com/aayush2761">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush2761&theme=radical&border=7F3FBF&background=0D1117" alt="Aayush's GitHub streak"/>
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/aayush2761">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayush2761&theme=radical" alt="Aayush's GitHub Contribution"/>
+  </a>
+</p>
+
+
+
+<a> 
+    <a href="https://github.com/aayush2761"><img alt="Aayush's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=aayush2761&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/aayush2761"><img alt="Aayush's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=aayush2761&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
+![Aayush's Graph](https://github-readme-activity-graph.vercel.app/graph?username=aayush2761&custom_title=Aayush%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
