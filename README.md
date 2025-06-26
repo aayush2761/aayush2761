@@ -98,3 +98,36 @@
 
 
 ![Aayush's Graph](https://github-readme-activity-graph.vercel.app/graph?username=aayush2761&custom_title=Aayush%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<!--
+<h2 align="center">⚡ Stats ⚡</h2>
+<br />
+
+<div align="center">
+<a href="https://leetcode.com/aayush2705gupta">
+<img src="https://leetcard.jacoblin.cool/aayush2705gupta?ext=heatmap" width="600" alt="Leetcode Stats"/>
+</a>
+</div>
+
+<div align="center">
+    <img width="50" src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif">
+    <img width="50" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif">
+    <img width="50" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif">
+    <img width="50" src="https://assets.leetcode.com/static_assets/marketing/202501.gif">
+    <img width="50" src="https://assets.leetcode.com/static_assets/marketing/202502.gif">
+    <img width="50" src="https://assets.leetcode.com/static_assets/marketing/202503.gif">
+    <img width="50" src="https://assets.leetcode.com/static_assets/marketing/202504.gif">
+    <img width="50" src="https://assets.leetcode.com/static_assets/marketing/202505.gif">
+</div>
+
+
+<div align="center">
+    <img width="50" src="https://assets.leetcode.com/static_assets/others/25100.gif">
+    <img width="50" src="https://assets.leetcode.com/static_assets/others/2550.gif">
+    <img width="50" src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif">
+    <img width="50" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif">
+</div>
+
+<br />
+-->
+
