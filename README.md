@@ -1,6 +1,6 @@
-<a href="https://komarev.com/ghpvc/?username=aayush2761">
+<!-- <a href="https://komarev.com/ghpvc/?username=aayush2761">
   <img align="right" src="https://komarev.com/ghpvc/?username=aayush2761&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
+</a> -->
 
 
 <!-- Intro  -->
@@ -41,7 +41,7 @@
 <br />
 
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/aayush2761">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayush2761&theme=radical&border=7F3FBF&background=0D1117" alt="Aayush's GitHub streak"/>
   </a>
@@ -51,7 +51,7 @@
   <a href="https://github.com/aayush2761">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayush2761&theme=radical" alt="Aayush's GitHub Contribution"/>
   </a>
-</p>
+</p> -->
 
 
 
