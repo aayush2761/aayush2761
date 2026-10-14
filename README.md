@@ -14,7 +14,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a developer from <b>Raipur, India</b> 」
+    「 I am a developer from <b>Bangalore, India</b> 」
     <br>
     <br>
   </samp>
@@ -39,41 +39,6 @@
  
 </p>
 <br />
-
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="https://ssr-contributions-svg.vercel.app/_/aayush2761?chart=3dbar&gap=0.6&scale=2&gradient=true&animation=wave&animation_duration=10&format=svg&weeks=10&theme=yellow_wine&widget_size=medium&dark=true" alt="Aayush's Contribution Calander" />
-
-  - 🔭 &emsp; I’m currently working on [Samar](https://github.com/Samar-NITRR/Samar-2k25)
-
-  - 🌱 &emsp; I’m currently learning **MACHINE LEARNNING**
-
-  - 💬 &emsp; Ask me about **CP/DSA/HTML/CSS/REACT**
-
-  - 📫 &emsp; How to reach me **aayush2705gupta@gmail.com**
-
-</p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-## Have Knowledge About
-
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<br/>
 
 
 <p align="center">
